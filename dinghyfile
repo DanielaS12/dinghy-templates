@@ -14,7 +14,7 @@
                "name":"Waaaaait",
                "refId":"1",
                "requisiteStageRefIds":[
-                  
+
                ],
                "type":"wait",
                "waitTime":15
@@ -22,11 +22,11 @@
             {
                "failPipeline":true,
                "judgmentInputs":[
-                  
+
                ],
                "name":"Manual Judgment",
                "notifications":[
-                  
+
                ],
                "refId":"2",
                "requisiteStageRefIds":[
@@ -54,7 +54,15 @@
             }
          ],
          "triggers":[
-            
+         {
+            "branch": "main",
+            "enabled": true,
+            "project": "gowrigirish",
+            "secret": "xxxxxxxx",
+            "slug": "testingrepo",
+            "source": "github",
+            "type": "git"
+        }
          ]
       }
    ]
