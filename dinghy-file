@@ -2,8 +2,8 @@
    "application":"sdaniela-dinghy",
    "pipelines":[
       {
-         "application":"kkotula-dinghy",
-         "name":"kkotula-pipeline",
+         "application":"sdaniela-dinghy",
+         "name":"sdaniela-pipeline",
          "keepWaitingPipelines":false,
          "lastModifiedBy":"anonymous",
          "limitConcurrent":true,
