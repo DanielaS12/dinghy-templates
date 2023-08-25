@@ -17,7 +17,7 @@
 
                ],
                "type":"wait",
-               "waitTime":5
+               "waitTime":6
             },
             {
                "failPipeline":true,
