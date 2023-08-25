@@ -11,13 +11,13 @@
          "spelEvaluator":"v4",
          "stages":[
             {
-               "name":"Waaait",
+               "name":"Waaaaaaaaait",
                "refId":"1",
                "requisiteStageRefIds":[
 
                ],
                "type":"wait",
-               "waitTime":6
+               "waitTime":16
             },
             {
                "failPipeline":true,
