@@ -2,7 +2,7 @@
    "application":"sdaniela-dinghy",
    "pipelines":[
       {
-         "id":"sdanieladinghyPipelineId"
+         "id":"sdanieladinghyId"
          "application":"sdanieladinghy",
          "name":"sdaniela-pipeline",
          "keepWaitingPipelines":false,
