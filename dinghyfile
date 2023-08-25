@@ -2,7 +2,7 @@
    "application":"sdaniela-dinghy",
    "pipelines":[
       {
-         "application":"sdaniela-dinghy",
+         "application":"sdanieladinghy",
          "name":"sdaniela-pipeline",
          "keepWaitingPipelines":false,
          "lastModifiedBy":"anonymous",
