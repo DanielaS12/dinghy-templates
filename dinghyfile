@@ -12,7 +12,7 @@
          "spelEvaluator":"v4",
          "stages":[
             {
-               "name":"Waaaaaait",
+               "name":"Wait",
                "refId":"1",
                "requisiteStageRefIds":[
 
